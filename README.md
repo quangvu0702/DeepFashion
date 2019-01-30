@@ -2,4 +2,4 @@
 Localize items in images and query visual similarity items from a dataset.
 
 - Paper:
-  - [ModaNet: A Large-scale Street Fashion Dataset with Polygon Annotations: a big dataset with bounding boxes](https://arxiv.org/pdf/1807.01394.pdf)
+  - [ModaNet: A Large-scale Street Fashion Dataset with Polygon Annotations. a big dataset with bounding boxes](https://arxiv.org/pdf/1807.01394.pdf). 
