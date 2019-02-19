@@ -7,3 +7,7 @@ Localize items in images and query visual similarity items from a dataset.
   - [Where to buy it: Martching Street Clothing Photos in Online Shops: Finding bounding boxes of items in images -> Find the similars of bounding box base on: FC6 of network or learn the similarity using sampling method](http://acberg.com/papers/wheretobuyit2015iccv.pdf)
   - [Pinterest automatic object detection](https://medium.com/@Pinterest_Engineering/introducing-automatic-object-detection-to-visual-search-e57c29191c30)
   - [Pinterest visual len](https://medium.com/cracking-the-data-science-interview/pinterests-visual-lens-how-computer-vision-explores-your-taste-47d591b42d7c)
+
+- Data set:
+  - https://github.com/eBay/modanet (annotation)
+  - https://github.com/kyamagu/paperdoll/tree/master/data/chictopia (images)
