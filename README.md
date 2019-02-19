@@ -11,5 +11,5 @@ Localize items in images and query visual similarity items from a dataset.
 - Data set:
   - https://github.com/eBay/modanet (annotation)
   - https://github.com/kyamagu/paperdoll/tree/master/data/chictopia (images)
-  - http://www.tamaraberg.com/street2shop/ (image to show)
+  - http://www.tamaraberg.com/street2shop/ (stree to shop)
   
