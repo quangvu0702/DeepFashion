@@ -13,4 +13,6 @@ Localize items in images and query visual similarity items from a dataset.
   - https://github.com/kyamagu/paperdoll/tree/master/data/chictopia (images)
   - https://tianchi.aliyun.com/competition/entrance/231670/information (Tianchi competition)
   - http://www.tamaraberg.com/street2shop/ (stree to shop)
+  - https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01h8tj (Open Images V4 dataset)
+  - 
   
